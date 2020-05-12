@@ -1,0 +1,26 @@
+{
+  "title": "Getting Started",
+  "steps": [
+    {
+      "file": "Startup.cs",
+      "line": 9,
+      "description": "Startup class is where initialization of the API begins."
+    },
+    {
+      "file": "WeatherForecast.cs",
+      "line": 5,
+      "description": "The object we'll be returning to the client."
+    },
+    {
+      "file": "Controllers\\WeatherForecastController.cs",
+      "line": 12,
+      "description": "Our controller, for returning the `WeatherForecast` objects."
+    },
+    {
+      "file": "Controllers%5CWeatherForecastController.cs",
+      "line": 29,
+      "description": "KISS - return random, fake weather :)"
+    }
+  ],
+  "ref": "5284d3a1fca3a5ac68abd3c7ba829be8c9768b14"
+}
